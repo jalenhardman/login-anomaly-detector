@@ -1,5 +1,6 @@
 # 🔐 Login Anomaly Detector (Python)
 
+Simulates real-world SOC detection by identifying anomalous login behavior and potential account compromise.
 A lightweight cybersecurity tool that analyzes login activity from log files and detects suspicious behavior using rule-based anomaly detection and risk scoring.
 
 ---
@@ -113,7 +114,7 @@ Provides:
 
 ---
 
-## 🧪 Example Scenario
+## 🧪 Real-World Detection Scenario
 
 A user experiences:
 
