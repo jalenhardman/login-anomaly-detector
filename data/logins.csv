@@ -1,0 +1,11 @@
+username,ip_address,location,time
+jalen,192.168.1.1,Chicago,08:30
+jalen,192.168.1.1,Chicago,09:15
+jalen,192.168.1.1,Chicago,12:00
+jalen,192.168.1.1,Chicago,18:45
+jalen,10.0.0.5,New York,02:45
+jalen,172.16.0.3,Germany,03:10
+jalen,192.168.1.1,Chicago,14:20
+jalen,8.8.8.8,Los Angeles,23:30
+jalen,192.168.1.1,Chicago,10:05
+jalen,203.0.113.55,Miami,01:15

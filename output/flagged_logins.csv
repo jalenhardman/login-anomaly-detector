@@ -1,0 +1,11 @@
+username,ip_address,location,time,location_anomaly,ip_anomaly,weird_time,risk_score,risk_level
+jalen,192.168.1.1,Chicago,08:30,NO,NO,NO,0,Normal
+jalen,192.168.1.1,Chicago,09:15,NO,NO,NO,0,Normal
+jalen,192.168.1.1,Chicago,12:00,NO,NO,NO,0,Normal
+jalen,192.168.1.1,Chicago,18:45,NO,NO,NO,0,Normal
+jalen,10.0.0.5,New York,02:45,YES,YES,YES,3,High Risk
+jalen,172.16.0.3,Germany,03:10,YES,YES,YES,3,High Risk
+jalen,192.168.1.1,Chicago,14:20,NO,NO,NO,0,Normal
+jalen,8.8.8.8,Los Angeles,23:30,YES,YES,YES,3,High Risk
+jalen,192.168.1.1,Chicago,10:05,NO,NO,NO,0,Normal
+jalen,203.0.113.55,Miami,01:15,YES,YES,YES,3,High Risk
