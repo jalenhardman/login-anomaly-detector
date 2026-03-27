@@ -1,0 +1,4 @@
+timestamp,user,location,result,risk_score,severity,reasons
+2026-02-10T14:10:00Z,jalen,New York,success,120,HIGH,"new_location,success_after_fail_streak"
+2026-02-10T14:04:10Z,jalen,Chicago,failure,60,MEDIUM,brute_force_streak
+2026-02-10T14:30:00Z,jalen,Germany,success,40,LOW,new_location

@@ -1,0 +1,13 @@
+Login Anomaly Detector Summary
+=============================
+
+Total alerts: 3
+Fail streak threshold: 5
+Success-after-streak window (min): 30
+
+HIGH: 1 | MEDIUM: 1 | LOW: 1
+
+Top alerts:
+1. [HIGH] user=jalen location=New York result=success score=120 reasons=new_location,success_after_fail_streak
+2. [MEDIUM] user=jalen location=Chicago result=failure score=60 reasons=brute_force_streak
+3. [LOW] user=jalen location=Germany result=success score=40 reasons=new_location
