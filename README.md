@@ -1,5 +1,15 @@
 # Login Anomaly Detection Project
+## 🚨 Key Features
+- Detects anomalous login behavior based on location, IP, and time
+- Uses behavioral baselining to determine normal vs suspicious activity
+- Assigns risk scores to prioritize potential threats
+- Simulates real-world SOC (Security Operations Center) analysis
+- ## 📊 Example Output
 
+| username | location | ip_address | weird_time | risk_score | risk_level |
+|----------|----------|-----------|------------|------------|------------|
+| jalen    | Chicago  | 192.168.1.1 | NO       | 0          | Normal     |
+| jalen    | Germany  | 172.16.0.3  | YES      | 3          | High Risk  |
 ## Overview
 This project is a simple anomaly detection tool built in Python to identify suspicious login activity in security logs. It analyzes login behavior using baseline patterns and flags unusual events based on location, IP address, and login time.
 
