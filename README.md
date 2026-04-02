@@ -54,3 +54,16 @@ Through this project, I strengthened my understanding of:
 - anomaly detection concepts
 - behavioral baselining
 - Python data processing with pandas
+
+- ## Example Output
+Below is an example of suspicious login activity detected by the system:
+
+- A login from a new location (New York) was flagged with HIGH severity due to unusual behavior and a success after failed attempts  
+- Multiple failed login attempts in Chicago were flagged as a potential brute force attack  
+- A login from Germany was flagged as a new location anomaly  
+
+### Terminal Output
+![Terminal Output](screenshots/Screenshot%202026-04-02%20at%202.32.46%20PM.png)
+
+### Flagged Events
+![Flagged Events](screenshots/Screenshot%202026-04-02%20at%202.33.33%20PM.png)
