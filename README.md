@@ -1,4 +1,12 @@
+## Why I Built This
+
+I built this project to simulate how a security analyst detects suspicious login activity. 
+The goal was to analyze authentication logs and identify behaviors like brute force attempts, 
+unusual login locations, and suspicious login patterns using Python.
+
+This project helped me understand how real-world security teams monitor and investigate potential threats.
 # Login Anomaly Detection Project
+
 ## 🚨 Key Features
 - Detects anomalous login behavior based on location, IP, and time
 - Uses behavioral baselining to determine normal vs suspicious activity
