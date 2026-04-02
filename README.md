@@ -55,7 +55,7 @@ Through this project, I strengthened my understanding of:
 - behavioral baselining
 - Python data processing with pandas
 
-- ## Example Output
+## Example Output
 Below is an example of suspicious login activity detected by the system:
 
 - A login from a new location (New York) was flagged with HIGH severity due to unusual behavior and a success after failed attempts  
